@@ -1,0 +1,3 @@
+digraph G {
+main->build main->GET main->uri main->newBuilder main->send main->newHttpClient main->ofString main->readValue main->body main->getReport main->println getReport->append getReport->forEach getReport->sorted getReport->filter getReport->stream getReport->equals getReport->getHomeMade getReport->comparing getReport->getName getReport->splitDescription getReport->getDescription getReport->getPrice getReport->sum getReport->mapToDouble getReport->count getReport->toString splitDescription->length splitDescription->substring 
+}
